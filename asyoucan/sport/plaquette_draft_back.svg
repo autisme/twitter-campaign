@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="231.6643"
-     inkscape:cy="340.58493"
+     inkscape:cx="852.91546"
+     inkscape:cy="376.29922"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,14 +56,14 @@
      id="layer1"
      transform="translate(0,-87)">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#27a8df;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#27a8df;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4553-7-3-0"
-       width="96.144882"
-       height="88.727287"
-       x="1.5311667"
-       y="177.52081"
-       ry="6.3994851"
-       rx="6.6660004" />
+       width="96.541458"
+       height="39.608986"
+       x="1.3328773"
+       y="177.32253"
+       ry="2.8568113"
+       rx="6.6934962" />
     <image
        y="87.374405"
        x="169.16324"
@@ -120,9 +120,7 @@
            y="63.700806"
            style="line-height:20px;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"
-         id="flowPara4687-8"> - Réduisez le volume de la musique d'ambiance et limitez les distractions visuelles &amp; sonores.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"
-         id="flowPara4734"> - Indiquez sur votre site web les heures les plus et les moins fréquentées.</flowPara><flowPara
+         id="flowPara4734"> - Cela est souvent une grande barrière pour participer aux activités proposées</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"
          id="flowPara4736" /></flowRoot>    <image
        y="184.93785"
@@ -162,9 +160,7 @@
          id="flowPara4772-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:10px;font-family:Lato;-inkscape-font-specification:Lato"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#27a8df;fill-opacity:1"
-   id="flowSpan4805">Traitement sensoriel </flowSpan><flowSpan
-   style="font-size:21.33333397px"
-   id="flowSpan980" />: certains bruits, certaines lumières et odeurs ou même la foule peuvent être insupportables</flowPara></flowRoot>    <rect
+   id="flowSpan4805">Traitement sensoriel </flowSpan>: certains bruits, certaines lumières et odeurs peuvent être insupportables</flowPara></flowRoot>    <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ec5828;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4553-7-3-3-3"
        width="96.144997"
@@ -246,9 +242,7 @@
            y="63.700806"
            style="line-height:20px;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"
-         id="flowPara1122"> - Essayez de limiter l'attente entre les plats : n'hésitez pas à annoncer un délai d'attente.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"
-         id="flowPara1124"> - Essayez de faire en sorte que le serveur soit la dès que la personne en a besoin. </flowPara></flowRoot>    <flowRoot
+         id="flowPara1124"> - </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4766-9-9-23"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -262,7 +256,7 @@
          id="flowPara4772-6-7-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:10px;font-family:Lato;-inkscape-font-specification:Lato"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ccbf0d;fill-opacity:1"
-   id="flowSpan1030">Concentration</flowSpan> : rester assis ou attendre dans une file d'attente pendant longtemps peut être un réel défi</flowPara></flowRoot>    <flowRoot
+   id="flowSpan1030">Concentration</flowSpan> : maintenir son attention sur une activité ou une partie de jeu peut être un réel défi </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot896"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -284,23 +278,7 @@
        d="M 198.25,80.882391 V 304.32011"
        id="path898-5"
        inkscape:connector-curvature="0" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4523-4-1-3-1"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:20px;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#121212;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-19.909499,202.97472)"><flowRegion
-         id="flowRegion4525-1-8-8-3"
-         style="line-height:20px;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"><rect
-           id="rect4527-8-9-6-2"
-           width="354.65234"
-           height="354.50577"
-           x="85.714287"
-           y="63.700806"
-           style="line-height:20px;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"
-         id="flowPara1048"> -  Mettez à disposition un lieu calme afin de permettre aux personnes autistes et/ou leur famille de se reposer.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"
-         id="flowPara1190"> - Évitez de mélanger les aliments dans l'assiette ou de mettre de la sauce par dessus : beaucoup de personnes autistes ont des hyper- sensibilités alimentaires.</flowPara></flowRoot>    <image
+    <image
        y="117.29032"
        x="-97.146629"
        id="image1101"
@@ -347,9 +325,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#121212;fill-opacity:1"
          id="flowPara4551" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#121212;fill-opacity:1"
-         id="flowPara4539">Accueillir les personnes autistes et leur famille est une opportunité pour attirer de nouveaux clients que vous ne devez pas négliger !</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#121212;fill-opacity:1"
-         id="flowPara977" /><flowPara
+         id="flowPara977">Accueillir les personnes autistes en créant une véritable politique d'inclusion est un enjeu majeur au sein de votre organisation</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#121212;fill-opacity:1"
          id="flowPara4535" /><flowPara
          id="flowPara4531"
@@ -422,9 +398,7 @@
          id="flowPara4772-6-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:10px;font-family:Lato;-inkscape-font-specification:Lato"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#eb589c;fill-opacity:1"
-   id="flowSpan4805-6">Compétences sociales </flowSpan><flowSpan
-   style="fill:#eb589c;fill-opacity:1"
-   id="flowSpan1106" />: savoir comment commencer une conversation, savoir quoi     « dire » ou simplement aller poser une question au personnel n'est pas évident</flowPara></flowRoot>    <rect
+   id="flowSpan4805-6">Compétences sociales </flowSpan>: savoir comment commencer une conversation, savoir quoi     « dire » ou simplement aller vers les autres n'est pas évident</flowPara></flowRoot>    <rect
        style="opacity:1;fill:#eb589c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.33827555;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4553-7-3-3-3-0"
        width="93.699821"
@@ -441,13 +415,13 @@
          id="flowRegion4525-1-8-8-7-3"
          style="line-height:20px;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"><rect
            id="rect4527-8-9-6-5-6"
-           width="250.49855"
-           height="249.95793"
+           width="244.63515"
+           height="199.95796"
            x="85.714287"
            y="63.700806"
            style="line-height:20px;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"
-         id="flowPara1126"> - Soyez tolérant si la personne ne vous regarde pas dans les yeux en vous parlant.</flowPara><flowPara
+         id="flowPara1126"> - Créez un environnement dans lequel la personne est incitée à aller vers les autres mais aussi.que les autres viennent vers elle.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:15px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;text-anchor:start;fill:#121212;fill-opacity:1"
          id="flowPara1134" /></flowRoot>    <image
        y="210.90121"
