@@ -1,14 +1,29 @@
 guide.pdf:
-	for dir in $(DIRS); do \
-		inkscape --without-gui --export-pdf=$$dir/front.pdf $$dir/front.svg; \
-		inkscape --without-gui --export-pdf=$$dir/back.pdf $$dir/back.svg; \
-		pdfjam -o $$dir/flyer.pdf --paper a4paper --landscape $$dir/front.pdf $$dir/back.pdf; \
-	done
+	for page in {1..4}; do \
+		inkscape --without-gui --export-pdf=p$${page}.pdf p$${page}.svg; \
+	done; \
+	pdfjam -o guide.pdf --paper a4paper --landscape p1.pdf p2.pdf p3.pdf p4.pdf;
+
+guide_inverted.pdf:
+	for page in {1..4}; do \
+		inkscape --without-gui --export-pdf=p$${page}.pdf p$${page}.svg; \
+	done; \
+	pdfjam -o odd.pdf --trim '0cm 0cm 14.85cm 0cm' p1.pdf p2.pdf p3.pdf p4.pdf;
+	pdfjam -o even.pdf --trim '14.85cm 0cm 0cm 0cm' p1.pdf p2.pdf p3.pdf p4.pdf;
+	for page in {1..4}; do \
+		pdfjam odd.pdf $${page} --outfile o$${page}.pdf; \
+		pdfjam even.pdf $${page} --outfile e$${page}.pdf; \
+	done;
+	pdfjam o1.pdf e1.pdf --nup 2x1 --paper a4paper --landscape --outfile p1.pdf; \
+	pdfjam o2.pdf e4.pdf --nup 2x1 --paper a4paper --landscape --outfile p2.pdf; \
+	pdfjam o4.pdf e2.pdf --nup 2x1 --paper a4paper --landscape --outfile p3.pdf; \
+	pdfjam o3.pdf e3.pdf --nup 2x1 --paper a4paper --landscape --outfile p4.pdf; \
+	pdfjam -o guide_inverted.pdf --paper a4paper --landscape p1.pdf p2.pdf p3.pdf p4.pdf;
 
 clean:
-	echo "not implemented"
+	rm -f p1.pdf p2.pdf p3.pdf p4.pdf odd.pdf even.pdf e1.pdf e2.pdf e3.pdf e4.pdf o1.pdf o2.pdf o3.pdf o4.pdf
 
-all: guide.pdf
+all: guide.pdf guide_inverted.pdf
 
 
-.PHONY: all clean guide.pdf
+.PHONY: all clean
