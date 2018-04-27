@@ -11,6 +11,7 @@ $(DIRS):
 		pdfjam -o $$dir/flyer_print.pdf --paper a4paper --landscape $$dir/cover.pdf $$dir/inside.pdf; \
 		pdf180 $$dir/cover.pdf --outfile $$dir/cover1.pdf; mv $$dir/cover1.pdf $$dir/cover.pdf; \
 		pdfjam -o $$dir/flyer_print_inverted.pdf --paper a4paper --landscape $$dir/cover.pdf $$dir/inside.pdf; \
+		cp $$dir/flyer.pdf $$dir/$$(dirname $$dir).pdf; \
 	done
 
 clean:
