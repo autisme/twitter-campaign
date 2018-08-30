@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.60444375"
-     inkscape:cx="664.48555"
-     inkscape:cy="311.25156"
+     inkscape:zoom="1.7096251"
+     inkscape:cx="392.72873"
+     inkscape:cy="801.14343"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="true"
-     inkscape:window-width="1371"
-     inkscape:window-height="1019"
+     inkscape:window-width="1358"
+     inkscape:window-height="705"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -132,12 +132,12 @@
        id="path815-4"
        inkscape:connector-curvature="0" />
     <rect
-       style="opacity:1;fill:#35bcdd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97468489;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#35bcdd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95606375;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect903-0-9"
-       width="151.09096"
-       height="154.33936"
-       x="-1.9523528"
-       y="83.808762"
+       width="148.5"
+       height="151.08937"
+       x="2.220446e-16"
+       y="87.058746"
        ry="0" />
     <image
        y="241.91275"
@@ -278,7 +278,7 @@
        id="rect903-0"
        width="148.46001"
        height="24.573954"
-       x="149.1386"
+       x="148.5"
        y="273.88406"
        ry="0" />
     <flowRoot
