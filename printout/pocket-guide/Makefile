@@ -1,4 +1,4 @@
-all: p1.svg p2.svg p3.svg p4.svg
+print: p1.svg p2.svg p3.svg p4.svg
 	inkscape --without-gui --export-pdf=p1.pdf p1.svg
 	inkscape --without-gui --export-pdf=p2.pdf p2.svg
 	inkscape --without-gui --export-pdf=p3.pdf p3.svg
@@ -24,7 +24,17 @@ all: p1.svg p2.svg p3.svg p4.svg
 
 	pdfjam -o margin.pdf --paper a4paper --landscape p1.pdf p2.pdf p3.pdf p4.pdf
 
+display:
+	inkscape --without-gui --export-pdf=p1.pdf p1.svg
+	inkscape --without-gui --export-pdf=p2.pdf p2.svg
+	inkscape --without-gui --export-pdf=p3.pdf p3.svg
+	inkscape --without-gui --export-pdf=p4.pdf p4.svg
+	pdfjam -o front.pdf --trim '14.85cm 0cm 0cm 0cm' p1.pdf
+	pdfjam -o back.pdf --trim '0cm 0cm 14.85cm 0cm' p1.pdf
+	pdfjam -o tmp.pdf --rotateoversize true --a5paper front.pdf p2.pdf p3.pdf p4.pdf back.pdf
+	pdftk tmp.pdf  cat 1 2east 3east 4east 5 output display.pdf
+
 clean:
 	rm -f e1.pdf e2.pdf e3.pdf e4.pdf o1.pdf o2.pdf o3.pdf o4.pdf p1.pdf p2.pdf p3.pdf p4.pdf odd.pdf even.pdf
-
-.PHONY: all
+	rm -f front.pdf back.pdf tmp.pdf
+.PHONY: all clean
