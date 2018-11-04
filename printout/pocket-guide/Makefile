@@ -1,4 +1,4 @@
-print_a4: p1.svg p2.svg p3.svg p4.svg
+printout_a4: p1.svg p2.svg p3.svg p4.svg
 	inkscape --without-gui --export-pdf=p1.pdf p1.svg
 	inkscape --without-gui --export-pdf=p2.pdf p2.svg
 	inkscape --without-gui --export-pdf=p3.pdf p3.svg
@@ -22,9 +22,9 @@ print_a4: p1.svg p2.svg p3.svg p4.svg
 	pdfjam o4.pdf e2.pdf --nup 2x1 --paper a4paper --landscape --outfile p3.pdf;
 	pdfjam o3.pdf e3.pdf --nup 2x1 --paper a4paper --landscape --outfile p4.pdf;
 
-	pdfjam -o print_a4.pdf --paper a4paper --landscape p1.pdf p2.pdf p3.pdf p4.pdf
+	pdfjam -o printout_a4.pdf --paper a4paper --landscape p1.pdf p2.pdf p3.pdf p4.pdf
 
-print_a5: p1.svg p2.svg p3.svg p4.svg
+printout_a5: p1.svg p2.svg p3.svg p4.svg
 	inkscape --without-gui --export-pdf=p1.pdf p1.svg
 	inkscape --without-gui --export-pdf=p2.pdf p2.svg
 	inkscape --without-gui --export-pdf=p3.pdf p3.svg
@@ -43,7 +43,7 @@ print_a5: p1.svg p2.svg p3.svg p4.svg
 	pdfjam even.pdf 3 --outfile e3.pdf;
 	pdfjam even.pdf 4 --outfile e4.pdf;
 
-	pdfjam -o print_a5.pdf --paper a5paper e1.pdf o2.pdf e2.pdf o3.pdf e3.pdf o4.pdf e4.pdf o1.pdf
+	pdfjam -o printout_a5.pdf --paper a5paper e1.pdf o2.pdf e2.pdf o3.pdf e3.pdf o4.pdf e4.pdf o1.pdf
 
 display:
 	inkscape --without-gui --export-pdf=p1.pdf p1.svg
@@ -61,4 +61,4 @@ clean:
 	rm -f e1.pdf e2.pdf e3.pdf e4.pdf o1.pdf o2.pdf o3.pdf o4.pdf p1.pdf p2.pdf p3.pdf p4.pdf odd.pdf even.pdf
 	rm -f front.pdf back.pdf tmp.pdf
 
-.PHONY: print_a4 print_a5 display all clean
+.PHONY: printout_a4 printout_a5 display all clean
