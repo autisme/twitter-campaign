@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="poster1.svg">
+   sodipodi:docname="poster_v1.svg">
   <defs
      id="defs2">
     <filter
@@ -255,8 +255,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="319.14401"
-     inkscape:cy="277.20417"
+     inkscape:cx="417.41768"
+     inkscape:cy="741.39271"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -373,12 +373,12 @@
        width="229.80202"
        style="opacity:1" />
     <rect
-       style="opacity:1;fill:#112e9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.67446113;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#112e9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.66935652;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect903-0"
        width="210"
-       height="53.171783"
-       x="0.094494045"
-       y="245.24564"
+       height="52.369976"
+       x="0"
+       y="244.63002"
        ry="0" />
     <image
        y="257.08981"
@@ -389,31 +389,31 @@
        height="4.6077952"
        width="5.8350596"
        style="filter:url(#filter4643)"
-       transform="matrix(1.3383553,0,0,1.3383553,-3.3835534,-86.831806)" />
+       transform="matrix(1.3383553,0,0,1.3383553,-5.3835525,-86.302639)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot959"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:17.77918816px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26037601,0,0,0.2527986,8.8344694,96.435644)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:21.90428925px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26037601,0,0,0.2527986,6.3670275,96.435644)"><flowRegion
          id="flowRegion961"><rect
            id="rect963"
-           width="661.81122"
-           height="75.03849"
+           width="702.45752"
+           height="73.543343"
            x="56.356655"
            y="625.30988"
            ry="0" /></flowRegion><flowPara
          id="flowPara965"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75033855px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1">Vous avez des questions sur l'autisme ou sur les aménagements que vous pouvez mettre en place ?</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75033855px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.50040627px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1">Vous avez des questions sur l'autisme ou sur les aménagements que vous pouvez mettre en place ?</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.50040627px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1"
          id="flowPara5111">Tweet <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.12537289px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.87544065px;line-height:0px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1"
    id="flowSpan1017">@BastienBConfais</flowSpan> et nous ferons de notre mieux pour y répondre. </flowPara><flowPara
          id="flowPara967"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75033855px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1" /></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.50040627px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot959-7"
-       style="font-style:normal;font-weight:normal;font-size:13.75033855px;line-height:17.77918816px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26037601,0,0,0.2527986,8.8345583,114.43598)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:13.75033855px;line-height:21.90428925px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26037601,0,0,0.2527986,6.3670275,114.43598)"><flowRegion
          id="flowRegion961-3"><rect
            id="rect963-0"
            width="573.72308"
@@ -421,18 +421,20 @@
            x="56.356655"
            y="625.30988"
            ry="0" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75033855px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.50040627px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1"
          id="flowPara889">Vous pouvez également visister notre site web :  <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.12537289px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1"
-   id="flowSpan1079">https://autisme.github.io</flowSpan></flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75033855px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.25047455px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1"
+   id="flowSpan1079">autisme.github.io</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.50040627px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1"
          id="flowPara5107">ou nous écrire : <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.12537289px;font-family:Lato;-inkscape-font-specification:'Lato Bold'"
-   id="flowSpan5114">autisme@confais.org</flowSpan>.</flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.8754406px;font-family:Lato;-inkscape-font-specification:'Lato Bold'"
+   id="flowSpan5114">autisme@confais.org</flowSpan><flowSpan
+   style="font-size:17.8754406px"
+   id="flowSpan924">.</flowSpan></flowPara><flowPara
          id="flowPara967-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75033855px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.50040627px;line-height:0px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1" /></flowRoot>    <g
        id="g5038"
-       transform="matrix(0.04746964,0,0,0.04746964,1.4554648,271.92187)"
+       transform="matrix(0.04746964,0,0,0.04746964,-0.5445352,272.45104)"
        style="filter:url(#filter5095)">
       <g
          id="g5036">
@@ -446,10 +448,10 @@
            inkscape:connector-curvature="0" />
         <polygon
            id="polygon5032"
-           points="269,101.1 200,41.1 200,159.8 " />
+           points="200,41.1 200,159.8 269,101.1 " />
         <polygon
            id="polygon5034"
-           points="400,41.1 331,101.1 400,159.8 " />
+           points="331,101.1 400,159.8 400,41.1 " />
       </g>
     </g>
     <flowRoot
@@ -509,7 +511,7 @@
        xml:space="preserve"
        id="flowRoot987"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26037601,0,0,0.2527986,55.69725,217.345)"><flowRegion
+       transform="matrix(0.26037601,0,0,0.2527986,36.118071,215.22832)"><flowRegion
          id="flowRegion989"><rect
            id="rect991"
            width="295"
@@ -517,14 +519,11 @@
            x="394"
            y="268.70078" /></flowRegion><flowPara
          id="flowPara993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1">© 2018 - images d'illustration issues de freepik.com</flowPara></flowRoot>    <image
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.00027084px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1">© 2018 - images d'illustration issues de freepik.com</flowPara></flowRoot>    <image
        y="142.48334"
        x="11.622768"
        id="image927"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAICAYAAACPi68jAAAABHNCSVQICAgIfAhkiAAAAD9JREFU
-WIXt0sEJACAQA8GcCvZfr0Ls4T4S2KlgH1u2LSDPGb8LgC7mRarJvEhVzItYzItYzItUd0navyuA
-Bj/WtAcPHP+e6wAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAICAYAAACPi68jAAAABHNCSVQICAgIfAhkiAAAAD9JREFU WIXt0sEJACAQA8GcCvZfr0Ls4T4S2KlgH1u2LSDPGb8LgC7mRarJvEhVzItYzItYzItUd0navyuA Bj/WtAcPHP+e6wAAAABJRU5ErkJggg== "
        preserveAspectRatio="none"
        height="2.1166666"
        width="46.302082" />
