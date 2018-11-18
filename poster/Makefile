@@ -4,6 +4,9 @@ poster_a4_v0.pdf: poster_v0.svg
 poster_a4_v1.pdf: poster_v1.svg
 	inkscape --without-gui --export-pdf=$@ $<
 
+poster_a4_v2.pdf: poster_v2.svg
+	inkscape --without-gui --export-pdf=$@ $<
+
 poster_a3_v0.pdf: poster_a4_v0.pdf
 	pdfjam $< --paper a3paper --outfile $@
 
