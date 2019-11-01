@@ -3,6 +3,11 @@ printout_a4: inside_margin.svg cover_margin.svg
 	inkscape --without-gui --export-pdf=inside_margin.pdf inside_margin.svg
 	pdfjam -o printout_a4.pdf --paper a4paper --landscape cover_margin.pdf inside_margin.pdf
 
+printout_a4_color_saver: inside_margin.svg cover_margin_color_saver.svg
+	inkscape --without-gui --export-pdf=cover_margin_color_saver.pdf cover_margin_color_saver.svg
+	inkscape --without-gui --export-pdf=inside_margin.pdf inside_margin.svg
+	pdfjam -o printout_a4_color_saver.pdf --paper a4paper --landscape cover_margin_color_saver.pdf inside_margin.pdf
+
 printout_a5: inside_margin.svg cover_margin.svg
 	inkscape --without-gui --export-pdf=cover_margin.pdf cover_margin.svg
 	inkscape --without-gui --export-pdf=inside_margin.pdf inside_margin.svg
@@ -30,7 +35,7 @@ all: display
 
 clean:
 	rm -f o1.pdf o2.pdf e1.pdf e2.pdf odd.pdf even.pdf
-	rm -f cover_margin.pdf inside_margin.pdf
+	rm -f cover_margin.pdf cover_margin_color_saver inside_margin.pdf
 	rm -f front.pdf back.pdf tmp.pdf
 
-.PHONY: printout_a4 printout_a5 display all clean
+.PHONY: printout_a4 printout_a4_color_saver printout_a5 display all clean
